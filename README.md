@@ -7,6 +7,9 @@ Connect your AT6668 GPS SMA module to cardputer, press R (red text [rec] will ap
 
 ![image](https://github.com/user-attachments/assets/c1af0acb-eb10-4ba6-8a2d-aefacaa3fe95)
 
+
+
+
 Arduino IDE settings:
 ![image](https://github.com/user-attachments/assets/054379f2-aab8-4a13-81b6-1567e5efb57a)
 
