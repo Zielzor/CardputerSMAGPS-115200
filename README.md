@@ -3,7 +3,10 @@
 ![image](https://github.com/user-attachments/assets/d97fb0ba-7f60-4e1f-b1ea-70cd9504341f)
 
 M5Stack cardputer firmware for AT6668 GPS module with SMA
-Connect your AT6668 GPS SMA module to cardputer, press R (red text [rec] will appear on screen) to record GPX track that will be stored on SD card
+Connect your AT6668 GPS SMA module to cardputer turn it on with firmware installed, 
+press R (red text [rec] will appear on screen) to record GPX track that will be stored on SD card
+
+CAN BE USED WITH M5Launcher
 
 ![image](https://github.com/user-attachments/assets/c1af0acb-eb10-4ba6-8a2d-aefacaa3fe95)
 _________________________________________________________________________________________
