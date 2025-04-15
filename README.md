@@ -1,4 +1,7 @@
 # CardputerSMAGPS
+
+![image](https://github.com/user-attachments/assets/d97fb0ba-7f60-4e1f-b1ea-70cd9504341f)
+
 M5Stack cardputer firmware for AT6668 GPS module with SMA
 Connect your AT6668 GPS SMA module to cardputer, press R (red text [rec] will appear on screen) to record GPX track that will be stored on SD card
 Arduino settings:
