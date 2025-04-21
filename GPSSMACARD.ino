@@ -22,8 +22,8 @@ const int screen_w = 240;      // Cardputer screen width
 const int screen_h = 135;      // Cardputer screen height
 const int gap = 4;             // Gap between columns and edges
 const int total_w = screen_w - 3 * gap; // Total width for both columns
-const int col0_w = total_w * 0.4;       // First column width (40%)
-const int col1_w = total_w * 0.6;       // Second column width (60%)
+const int col0_w = total_w * 0.5;       // First column width (50%)
+const int col1_w = total_w * 0.5;       // Second column width (50%)
 const int field_h = 14;                 // Height of each data field
 const int field_gap = 1;                // Gap between fields
 
