@@ -26,3 +26,4 @@ GPX files can be decoded using https://gpx.studio/ as example
 
 Changelog:
 1. Fixed UI bug
+2. Added to M5Burner repo
