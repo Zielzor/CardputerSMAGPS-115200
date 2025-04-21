@@ -22,3 +22,7 @@ ________________________________________________________________________________
 
 GPX files can be decoded using https://gpx.studio/ as example
 ![Untitled](https://github.com/user-attachments/assets/92b39a86-6958-46e7-85b2-8917ab74c5f7)
+
+
+Changelog:
+1. Fixed UI bug
